@@ -164,20 +164,3 @@ Speaking of **{word}**, that reminds me of some jokes.
 
 Sorry, I couldn't find any jokes related to this movie.
 """
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
